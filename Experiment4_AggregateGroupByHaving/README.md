@@ -1,4 +1,4 @@
-# Experiment 4: Aggregate Functions, Group By and Having Clause
+[# Experiment 4: Aggregate Functions, Group By and Having Clause
 
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
@@ -159,3 +159,4 @@ HAVING condition;
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
+](https://github.com/Praveena1204/19CS404-DBMS-Lab-Manual/tree/main/Experiment3_DML_Commands)
